@@ -31,10 +31,10 @@ Analyze the data to identify key factors driving app engagement and success.
 ## Insights and Recommendations Summarize the insights gained from the analysis and provide recommendations for app developers.
 
 ## Tools Used
-1. Python
-2. Pandas
-3. Matplotlib
-4. Seaborn
-5. WordCloud
+1. Python 🐍
+2. Pandas 🐼
+3. Matplotlib 📊
+4. Seaborn 📈
+5. WordCloud ☁️
 ## Conclusion
 The analysis provides valuable insights into the Play Store app data and customer reviews, which can help app developers make informed decisions to improve their app's performance and success in the Android market.
