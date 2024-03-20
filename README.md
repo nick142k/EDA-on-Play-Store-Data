@@ -1,4 +1,4 @@
-# EDA-on-Play-Store-Data.
+#  🚀  EDA-on-Play-Store-Data 📱📊
 Project Summary
 The project involves exploratory data analysis (EDA) of Play Store app data alongside customer reviews to uncover key factors driving app engagement and success. The analysis provides actionable insights for app developers to capture the Android market effectively.
 
