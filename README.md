@@ -2,7 +2,7 @@
 Project Summary
 The project involves exploratory data analysis (EDA) of Play Store app data alongside customer reviews to uncover key factors driving app engagement and success. The analysis provides actionable insights for app developers to capture the Android market effectively.
 
-##Problem Statement
+## Problem Statement
 The goal is to identify and leverage crucial insights from Play Store app data and customer reviews. This will enable app developers to enhance engagement, optimize user experiences, and maximize success in the competitive Android market.
 
 Business Objective
