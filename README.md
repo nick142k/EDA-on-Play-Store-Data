@@ -35,7 +35,8 @@ Popular Genres: The most frequent genres of apps in the dataset are [insert genr
 Rating Distribution: The distribution of ratings varies across genres, with some genres having higher average ratings than others.
 Size vs. Rating: There is a weak positive correlation between app size and ratings, suggesting that larger apps tend to have slightly higher ratings.
 Price vs. Rating: Free apps generally have higher ratings compared to paid apps, indicating that pricing strategy can impact user satisfaction.
-Recommendations for App Developers:
+
+## Recommendations for App Developers:
 
 Focus on Popular Genres: Develop apps in genres that are highly popular to cater to user demand and maximize downloads.
 Optimize App Size: While there is a positive correlation between app size and ratings, focus on optimizing app size to ensure a balance between features and user experience.
